@@ -17,11 +17,3 @@ The others:
 ```bash
 pip install -r requirements.txt
 ```
-
-## GitHub Repository
-
-https://github.com/remorsecs/Kaggle-Plant-Seedlings-Classification-Example
-
-## Contributing
-
-All contributions are welcome.
